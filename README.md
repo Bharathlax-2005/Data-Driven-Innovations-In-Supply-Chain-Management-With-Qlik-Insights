@@ -1,4 +1,36 @@
-# SCM
-Business Analytics || Smart Bridge || Smart Internz || Qlik || Supply Chain Management 
+# Data-Driven Innovations in Supply Chain Management with Qlik Insights
 
-Qlik Dashboard -- https://gr1muaqs98ti42f.sg.qlikcloud.com/sense/app/7c577d1b-c589-43a8-8301-eebba3f510bd
+## Define Problem / Problem Understanding
+
+**Problem:** Enhancing supply chain management through data-driven innovations using Qlik Insights.
+
+## Specify the Business Problem
+
+**Issues:**
+- Inefficient inventory management
+- Inaccurate demand forecasting
+- Logistics optimization challenges
+- Poor supplier management
+
+## Business Requirements
+
+1. Integrate data from various sources
+2. Provide real-time analytics
+3. Offer predictive analytics for forecasting
+4. Deliver user-friendly visualizations
+5. Enable automated, customizable reporting
+
+## Literature Survey
+
+- **Data-Driven Supply Chains:** Improves decision-making, reduces costs, and enhances efficiency.
+- **Qlik Insights:** Effective in transforming data into actionable insights.
+- **Case Studies:** Successful implementations across industries demonstrate problem-solving potential.
+
+## Social or Business Impact
+
+- **Cost Efficiency:** Reduced operational costs
+- **Customer Satisfaction:** Better product availability
+- **Sustainability:** Lower waste and carbon footprint
+- **Competitive Advantage:** More responsive and adaptive supply chains
+
+This approach aims to optimize supply chain management, resulting in enhanced business performance and positive social impacts.
