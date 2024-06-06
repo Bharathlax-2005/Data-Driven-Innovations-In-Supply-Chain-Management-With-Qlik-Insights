@@ -1,5 +1,9 @@
 # Data-Driven Innovations in Supply Chain Management with Qlik Insights
 
+## Demonstration Video Link
+
+https://youtu.be/Eb4sSswaYs8
+
 ## Define Problem / Problem Understanding
 
 **Problem:** Enhancing supply chain management through data-driven innovations using Qlik Insights.
