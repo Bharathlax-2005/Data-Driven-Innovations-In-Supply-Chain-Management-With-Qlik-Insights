@@ -1,5 +1,9 @@
 # Data-Driven Innovations in Supply Chain Management with Qlik Insights
 
+## Demo Video (<4min)
+
+https://youtu.be/Z9daaz6htNg
+
 ## Demonstration Video Link
 
 https://youtu.be/Eb4sSswaYs8
